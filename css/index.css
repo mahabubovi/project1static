@@ -1,0 +1,289 @@
+*{
+	margin: 0 auto;
+
+}
+
+body{
+	
+	background-color:white;
+	font-family: sans-serif;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+header{
+	width: 100%;
+	height: 75px;
+	background-color: #f6f9f9;
+
+}
+
+header img{
+	height: 75px;
+	
+
+}
+
+.banner-section{
+	width: 100%;
+	height: 800px;
+	background: url(../img/bigstock-Black-And-White-Shot-Of-Gym-Cl-95544959.jpg);
+	margin: 15px -10px;
+	background-size: cover;
+	background-position: center;
+}
+
+.design-details{
+	
+	width: 90%;
+    height: 250px;
+    background-color:#f6f9f9;
+    margin: 30px auto;
+    text-align: center;
+
+
+
+}
+
+.design-details h1{
+	color: purple;
+}
+.design-details p{
+	    color: gray;
+        margin: 5px 25px;
+
+}
+
+.icon-container{
+	background-color: #ffffff;
+	width: 100%;
+	height: 400px;
+	margin: 0px auto;
+
+}
+
+.icon-one{
+	width: 33.3333%;
+	height: 340px;
+	text-align: center;
+	float: left;
+}
+
+.icon-two{
+	width: 33.3333%;
+	height: 340px;
+	text-align: center;
+	float: left;
+}
+
+.icon-three{
+	width: 33.3333%;
+	height: 340px;
+	text-align: center;
+	float: left;
+}
+
+.showcase-details{
+    width: 100%;
+	height: 150px;
+	margin: 0 auto;
+	background-color: #f8f8f8;
+	text-align: center;
+	float: left;
+
+}
+
+.photo-one{
+
+	 width: 30%;
+	height: 140px;
+    background:url(../img/images.jpg);
+    min-height: 200px;
+	background-position: center;
+	margin: 5px 5px 5px 20px;
+	background-size: cover;
+	margin: 5px 5px 5px 20px;
+	box-shadow: 0px 0px 10px 2px dodgerblue;
+	float: left;
+
+}
+
+.photo-two{
+	width: 30%;
+	height: 140px;
+    background:url(../img/WHYWORLDGYM11.jpg);
+    min-height: 200px;
+	background-position: center;
+	margin: 5px 5px 5px 20px;
+	background-size: cover;
+	margin: 5px 5px 5px 20px;
+	box-shadow: 0px 0px 10px 2px dodgerblue;
+	float: left;
+}
+
+.photo-three{
+	width: 30%;
+	height: 140px;
+    background:url(../img/Home-decoration-fitness-black-and-white-gym-Silk-Fabric-Poster-Print-SY26.jpg_640x640.jpg);
+    min-height: 195px;
+	background-position: center;
+	margin: 5px 5px 5px 20px;
+	background-size: cover;
+	margin: 5px 5px 5px 20px;
+	box-shadow: 0px 0px 10px 2px dodgerblue;
+	float: left;
+}
+
+.photo-row-two{
+	width: 100%;
+	height: 150px;
+	margin: 0 auto;
+	float: left;
+}
+
+.photo-four{
+	width: 30%;
+	height: 140px;
+    background:url(../img/hipster-coffee.jpg);
+    min-height: 195px;
+	background-position: center;
+	margin: 5px 5px 5px 20px;
+	background-size: cover;
+	margin: 5px 5px 5px 20px;
+	box-shadow: 0px 0px 10px 2px dodgerblue;
+	float: left;
+}
+
+.photo-five{
+	width: 30%;
+	height: 140px;
+    background:url(../img/1.jpg);
+    min-height: 195px;
+	background-position: center;
+	margin: 5px 5px 5px 20px;
+	background-size: cover;
+	margin: 5px 5px 5px 20px;
+	box-shadow: 0px 0px 10px 2px dodgerblue;
+	float: left;
+}
+
+.photo-six{
+	width: 30%;
+	height: 140px;
+    background:url(../img/promote-coffee-shop.jpg);
+    min-height: 195px;
+	background-position: center;
+	margin: 5px 5px 5px 20px;
+	background-size: cover;
+	margin: 5px 5px 5px 20px;
+	box-shadow: 0px 0px 10px 2px dodgerblue;
+	float: left;
+}
+
+.information-to-user{
+
+    width: 100%;
+    height: 700px;
+    background: url(../img/bd.img.jpg);
+    background-size: cover;
+    margin: 90px 0px 0px -5px;
+    float: left;
+}
+
+.input-fild{
+	 height: 200px;
+     width: 150px;
+     margin: 83px 34px 1px 320px;
+
+}
+
+.form-control{
+	
+	width: 287%;
+    padding: 20px 17px;
+    margin: 9px 0px;
+    outline: none;
+    transition: 0.4s;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid #aaa;
+    text-align: top;
+    background:rgba(229, 238, 244, 0.02);
+
+}
+
+.form-control-text{
+	width: 287%;
+    padding: 120px 17px;
+    margin: 10px 0px;
+    outline: none;
+    transition: 0.4s;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid #aaa;
+    background:rgba(229, 238, 244, 0.02);
+    padding-bottom: 70px;
+}
+
+.form-text{
+	width: 287%;
+    padding: 120px 17px;
+    margin: 10px 0px;
+    outline: none;
+    transition: 0.4s;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid #aaa;
+    background:rgba(229, 238, 244, 0.02);
+    padding-bottom: 70px;
+}
+
+
+.footer-container{
+	width: 100%;
+	height: 120px;
+	background-color: black;
+	margin: 5px 0px 0px -5px;
+	float: left;
+
+}
+.footer-container p{
+    
+    color: gray;
+    margin: 5px 60px;
+    float: left;
+    
+
+
+}
+
+.end-right{
+    width: 16%;
+    height: 45px;
+    
+    margin:2px 2px;
+    float: left;
+    display: block;
+    margin:0px 0px 0px 396px;
+    align-items: center;
+    padding: 
+
+
+
+
+
+
+}
+
+.end-right img{
+	width: 40px;
+	height: 40px;
+	float: left;
+	margin: 20px 0px 0px 0px;
+	padding: 
+	
+
+}
